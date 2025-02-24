@@ -185,45 +185,4 @@ http://122.96.52.98:8006/JS_CUCC/G_HEILONGJIANG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5
 http://122.96.52.98:8006/JS_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEi%2B9f1ioQT23DodmBN6xoZyFyF4UiSgYamv7VsmPOuOJ&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="少儿" tvg-name="南京少儿",南京少儿
 http://122.96.52.98:8006/JS_CUCC/G_NJSE.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErV9ZZLHPB2iNJDmdQ9xIhzEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="其他",央视电视指南
-http://112.86.202.37:8106/JSBC_iptv/C10000203@JSBC
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="其他",央视风云剧场
-http://112.86.202.37:8106/JSBC_iptv/C10000208@JSBC
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="其他",央视怀旧剧场
-http://112.86.202.37:8106/JSBC_iptv/C10000210@JSBC
-#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="其他",央视文化精品
-http://112.86.202.37:8106/JSBC_iptv/C10000209@JSBC
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="其他",央视世界地理
-http://112.86.202.37:8106/JSBC_iptv/C10000206@JSBC
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="其他",央视兵器科技
-http://112.86.202.37:8106/JSBC_iptv/C10000207@JSBC
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="其他",央视风云音乐
-http://112.86.202.37:8106/JSBC_iptv/C10000211@JSBC
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="其他",央视风云足球
-http://112.86.202.37:8106/JSBC_iptv/C10000204@JSBC
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="其他",央视高尔夫·网球
-http://112.86.202.37:8106/JSBC_iptv/C10000205@JSBC
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="其他",央视台球
-http://122.97.211.133:8106/JSBC_iptv/C10000217@JSBC
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="其他",央视女性时尚
-http://112.86.202.37:8106/JSBC_iptv/C10000212@JSBC
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="其他",湖南快乐垂钓
-http://112.86.202.37:8106/JSBC_iptv/C10000142@JSBC
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="其他",湖南茶频道
-http://112.86.202.37:8106/JSBC_iptv/C10000160@JSBC
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="其他",金鹰纪实
-http://112.86.202.37:8106/JSBC_iptv/C10000187@JSBC
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="其他",金鹰卡通
-http://122.97.211.133:8106/JSBC_iptv/C10000216@JSBC
-#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="其他",先锋乒羽 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000159@JSBC
-#EXTINF:-1 tvg-id="6555" tvg-name="中数梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="其他",梨园频道
-http://122.97.211.133:8106/JSBC_iptv/C10000235@JSBC
-#EXTINF:-1 tvg-id="6586" tvg-name="中数武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="其他",武术世界
-http://122.97.211.133:8106/JSBC_iptv/C10000236@JSBC
-#EXTINF:-1 tvg-id="6591" tvg-name="中数文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="其他",文物宝库
-http://122.97.211.133:8106/JSBC_iptv/C10000237@JSBC
-#EXTINF:-1 group-title="其他",精彩推荐
-rtsp://112.86.202.37:554/JSBC_iptv/C10000118@JSBC
-#EXTINF:-1 group-title="电视购物",好享购物
-http://112.86.202.37:8106/JSBC_iptv/C10000230@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000217@JSBC
